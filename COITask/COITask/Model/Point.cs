@@ -34,7 +34,7 @@ namespace COITask
 
         public override void Print()
         {
-            Console.Write("Point "+X);
+            Console.Write("Point "+X+", ");
         }
     }
 
@@ -61,7 +61,7 @@ namespace COITask
 
         public override void Print()
         {
-            Console.Write("Point " + $"{X},{Y}");
+            Console.Write("Point " + $"{X},{Y}"+", ");
         }
     }
 
@@ -90,7 +90,7 @@ namespace COITask
 
         public override void Print()
         {
-            Console.Write("Point " + $"{X},{Y},{Z}");
+            Console.Write("Point " + $"{X},{Y},{Z}"+", ");
         }
     }
 }
