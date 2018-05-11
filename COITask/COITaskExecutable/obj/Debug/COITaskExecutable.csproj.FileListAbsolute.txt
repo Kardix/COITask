@@ -1,0 +1,10 @@
+J:\VS Repos\COITask\COITaskExecutable\bin\Debug\COITaskExecutable.exe.config
+J:\VS Repos\COITask\COITaskExecutable\bin\Debug\COITaskExecutable.exe
+J:\VS Repos\COITask\COITaskExecutable\bin\Debug\COITaskExecutable.pdb
+J:\VS Repos\COITask\COITaskExecutable\bin\Debug\COITask.dll
+J:\VS Repos\COITask\COITaskExecutable\bin\Debug\COITask.pdb
+J:\VS Repos\COITask\COITaskExecutable\obj\Debug\COITaskExecutable.csprojResolveAssemblyReference.cache
+J:\VS Repos\COITask\COITaskExecutable\obj\Debug\COITaskExecutable.csproj.CoreCompileInputs.cache
+J:\VS Repos\COITask\COITaskExecutable\obj\Debug\COITaskExecutable.exe
+J:\VS Repos\COITask\COITaskExecutable\obj\Debug\COITaskExecutable.pdb
+J:\VS Repos\COITask\COITaskExecutable\bin\Debug\System.Collections.Immutable.dll

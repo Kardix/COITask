@@ -1,0 +1,16 @@
+J:\VS Repos\COITask\COITaskTests\obj\Debug\COITaskTests.csprojResolveAssemblyReference.cache
+J:\VS Repos\COITask\COITaskTests\obj\Debug\COITaskTests.csproj.CoreCompileInputs.cache
+J:\VS Repos\COITask\COITaskTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\VS Repos\COITask\COITaskTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\VS Repos\COITask\COITaskTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\VS Repos\COITask\COITaskTests\bin\Debug\COITaskTests.dll
+J:\VS Repos\COITask\COITaskTests\bin\Debug\COITaskTests.pdb
+J:\VS Repos\COITask\COITaskTests\bin\Debug\COITask.dll
+J:\VS Repos\COITask\COITaskTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\VS Repos\COITask\COITaskTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\VS Repos\COITask\COITaskTests\bin\Debug\System.Collections.Immutable.dll
+J:\VS Repos\COITask\COITaskTests\bin\Debug\COITask.pdb
+J:\VS Repos\COITask\COITaskTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\VS Repos\COITask\COITaskTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\VS Repos\COITask\COITaskTests\obj\Debug\COITaskTests.dll
+J:\VS Repos\COITask\COITaskTests\obj\Debug\COITaskTests.pdb
