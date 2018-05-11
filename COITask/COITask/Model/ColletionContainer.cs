@@ -5,18 +5,25 @@ using System.Collections.Immutable;
 namespace COITask
 {
     /// <summary>
-    // Top level container
-    /// <typeparam name="T">limited to numerical types</typeparam>
+    /// Definition of T4 container
+    /// <typeparam name="T">numerical type</typeparam>
     public class ColletionContainer<T> : IEnumerable
         where T : struct, IComparable, IComparable<T>
     {
         public ImmutableList<Collection<T>> Collections;
-
+        
+        /// <summary>
+        /// Default T4 constructor for empty container
+        /// </summary>
         public ColletionContainer()
         {
             Collections = ImmutableList<Collection<T>>.Empty;
         }
 
+        /// <summary>
+        /// Constructor for T4 container with pre-specified collection of T3 containers
+        /// </summary>
+        /// <param name="collections">List of T3 containers</param>
         public ColletionContainer(ImmutableList<Collection<T>> collections)
         {
             Collections = collections;

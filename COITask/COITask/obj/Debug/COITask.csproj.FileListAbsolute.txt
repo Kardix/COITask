@@ -5,3 +5,10 @@ J:\VS Repos\COITask\COITask\obj\Debug\COITask.csproj.CoreCompileInputs.cache
 J:\VS Repos\COITask\COITask\obj\Debug\COITask.dll
 J:\VS Repos\COITask\COITask\obj\Debug\COITask.pdb
 J:\VS Repos\COITask\COITask\bin\Debug\System.Collections.Immutable.dll
+J:\VS Repos\task\COITask\COITask\COITask\bin\Debug\COITask.dll
+J:\VS Repos\task\COITask\COITask\COITask\bin\Debug\COITask.pdb
+J:\VS Repos\task\COITask\COITask\COITask\bin\Debug\System.Collections.Immutable.dll
+J:\VS Repos\task\COITask\COITask\COITask\obj\Debug\COITask.csprojResolveAssemblyReference.cache
+J:\VS Repos\task\COITask\COITask\COITask\obj\Debug\COITask.csproj.CoreCompileInputs.cache
+J:\VS Repos\task\COITask\COITask\COITask\obj\Debug\COITask.dll
+J:\VS Repos\task\COITask\COITask\COITask\obj\Debug\COITask.pdb

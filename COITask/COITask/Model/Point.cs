@@ -5,7 +5,7 @@ namespace COITask
     /// <summary>
     /// Basic point node for container purposes
     /// </summary>
-    /// <typeparam name="T">supports numerical values</typeparam>
+    /// <typeparam name="T">numerical type</typeparam>
     public abstract class Point<T> where T : struct,
                                     IComparable,
                                     IComparable<T>
@@ -16,7 +16,7 @@ namespace COITask
     /// <summary>
     /// Definition of 1-dimensional point
     /// </summary>
-    /// <typeparam name="T"></typeparam>
+    /// <typeparam name="T">numerical type</typeparam>
     public class Point1D<T> : Point<T> where T : struct,
                                                  IComparable,
                                                  IComparable<T>
@@ -41,7 +41,7 @@ namespace COITask
     /// <summary>
     /// Definition of 2-dimensional point
     /// </summary>
-    /// <typeparam name="T"></typeparam>
+    /// <typeparam name="T">numerical type</typeparam>
     public class Point2D<T> : Point<T> where T : struct,
                                                  IComparable,
                                                  IComparable<T>
@@ -68,7 +68,7 @@ namespace COITask
     /// <summary>
     /// Definition of 3 -dimensional point
     /// </summary>
-    /// <typeparam name="T"></typeparam>
+    /// <typeparam name="T">numerical type</typeparam>
     public class Point3D<T> : Point<T> where T : struct,
                                                  IComparable,
                                                  IComparable<T>
